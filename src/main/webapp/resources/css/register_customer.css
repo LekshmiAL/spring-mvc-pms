@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+
+body{
+	background-color : lightblue;
+	padding: 100px;
+	text-align: center;
+}
+
+label {
+      width: 150px;
+      text-align: right;
+      width: 180px;
+      padding : 10px;
+}
+
+#home-icon{
+	 position: absolute;
+     top: 0px;
+     right: 0px;
+}
+
+#back-icon{
+	 position: absolute;
+     top: 0px;
+     right: 50px;
+}
